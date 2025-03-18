@@ -1,0 +1,21 @@
+Sound Cue Sheet
+Q#,Name,Type,Description,Target,Time (s),Speaker(s),Cue,Pg. #
+10,Preshow Music,Group,,,,,,4
+20,Preshow Music OUT,Fade & Stop,,10,5,,,5
+30,Preshow Annc.,Audio,If not live curtain speech,,,,,6
+40,Prelude,Audio,"Before NORA 1 enters the stage & continues until NORA 1 lands on the turntable
+Children playing off in distance",,,,,7
+45,Prelude Devamp,Devamp,Try to land the last note of the piece with when NORA 1 gets onto the platform,40,,,,12
+50,Monologue 1 Fade Up,Fade Up,Build,40,8,,,14
+60,Monologue 1 OUT,Fade & Stop,Devamp,30,9,,,90
+90,Cracking 1,Audio,Soft catalyst,,,,,91
+100,Monologue 3,Fade Down,,90,20,,,92
+110,"Door Knock 1 Monologue 3 OUT",Group,Christine’s door knock,,,,,93
+120,Monologue 4,Audio,,,,,,94
+130,Monologue 4 OUT,Stop,,120,,,,95
+135,Door Knock 1.5,Audio,Nathan’s 1st Door Knock,,,,,96
+140,Monologue 5,Audio,,,,,,97
+150,"Door Knock 2 Monologue 5 OUT",Group,Nathan's 2nd Door Knock (aggressive?),,,,,98
+160,Swirling 1,Audio,,,,,,99
+170,Cracking 2,Devamp,Chorus of Nora’s,160,,,,100
+190,Swirling 1 ENDS,Fade & Stop,,160,50,,,102
